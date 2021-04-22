@@ -1,7 +1,7 @@
 ## File Structure
 
-.
-├── data
+.\\
+├── data\\
 │   ├── 海南进入生活垃圾全焚烧时代.csv
 │   └── 合安高铁进入试运行.csv
 ├── main.py
